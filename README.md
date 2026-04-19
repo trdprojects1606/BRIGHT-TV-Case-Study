@@ -1,6 +1,6 @@
 # BRIGHT-TV-Case-Study
 Case study on Bright TV viewership
-We checked the data for Bright TV; Viewership and userprofile so that we undrstand the background of the company.Detailed imformation was used to analysis the comapany's current position.
+We checked the data for Bright TV; Viewership and userprofile so that we undrstand the background of the company.Detailed information was used to analysis the comapany's current position.
 
 Databricks was used to unpack the record and duration time using the timesheets, both tables had userID.therefore full outer joins were used to combine the two tables.This helped us to provide insights on user and usage trends of BrightTV and we were able to create more tables.
 • What type of factors influence consumption? 
