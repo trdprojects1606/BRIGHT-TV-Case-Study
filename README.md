@@ -5,6 +5,7 @@ We checked the data for Bright TV; Viewership and userprofile so that we underst
 
 Brainstorming session was held with relevant stakeholders to understand their vision and this helped eith planning and ideas on how to grow the comapany.
 Databricks was used to unpack the record and duration time using the timesheets, both tables had userID,therefore full outer joins were used to combine the two tables.This helped us to provide insights on user and usage trends of BrightTV and we were able to create more tables.
+The following questions will be answered as the data is analysed and used to review the growth methodology and approach for the Bright TV.
 • What type of factors influence consumption? 
 • What content would you recommend to increase consumption on the days with low 
 consumption? 
